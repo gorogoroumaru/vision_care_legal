@@ -1,7 +1,8 @@
 title: 緑内障ケア手帳
 lang: ja-JP
-theme: minima
 markdown: kramdown
-exclude:
-  - README.md
-  - LICENSE
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

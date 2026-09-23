@@ -136,6 +136,6 @@ title: 緑内障ケア手帳 利用規約
 - 運営者：Toshiaki Tanaka
 - 住所：東京都文京区向ヶ丘1-10-2ザプラザオーベル白山509
 - お問い合わせフォーム：[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSf0_bXd7MqTQpTfT-AxejWwRjDTSSQhKLcMe3XRnN4fcrLGLg/viewform?usp=dialog)
-- 利用規約掲載URL：[https://gorogoroumaru.github.io/eversight-legal/terms-of-service.html](https://gorogoroumaru.github.io/eversight-legal/terms-of-service.html)
+- 利用規約掲載URL：[https://gorogoroumaru.github.io/vision_care_legal/terms-of-service.html](https://gorogoroumaru.github.io/vision_care_legal/terms-of-service.html)
 
 以上

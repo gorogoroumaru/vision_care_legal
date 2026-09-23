@@ -157,7 +157,7 @@ AppleおよびRevenueCatは、購入状態の提供、会計、不正防止、�
 
 変更後の本ポリシーは、次の掲載場所に表示した時点または別途示す効力発生日から適用されます。
 
-プライバシーポリシー掲載URL：[https://gorogoroumaru.github.io/eversight-legal/privacy-policy.html](https://gorogoroumaru.github.io/eversight-legal/privacy-policy.html)
+プライバシーポリシー掲載URL：[https://gorogoroumaru.github.io/vision_care_legal/privacy-policy.html](https://gorogoroumaru.github.io/vision_care_legal/privacy-policy.html)
 
 ## 13. お問い合わせ窓口
 
